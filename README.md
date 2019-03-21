@@ -1,3 +1,7 @@
-# texttomusic
+Problem Statement - Generate Music for text
 
-I am working on a project to generate music for which I require the piano midi files for songs. There are plenty of piano midi files available online but most of it is the instrumental music. I want midi songs with lyrics for my project. 
+Run the main.ipynb generate the model and obtain results.
+
+To generate music for unseen data, add query in data/test.txt file.
+
+Rhe code for scraping the data will be uploaded later.
